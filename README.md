@@ -10,3 +10,4 @@
 |   |   |
 
 [https://github.com/KrishnaProf/My-projects/tree/master/Gender%20Recognition%20by%20voice]: https://github.com/KrishnaProf/My-projects/tree/master/Gender%20Recognition%20by%20voice "- Gender Recognition by voice"
+[https://github.com/KrishnaProf/My-projects/tree/master/Telecom%20Project/Group-1010]: https://github.com/KrishnaProf/My-projects/tree/master/Telecom%20Project/Group-1010 "- Telecom Project"
